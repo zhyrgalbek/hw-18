@@ -1,0 +1,7 @@
+
+.block {
+    border: 1px solid #000;
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row wrap;
+}
